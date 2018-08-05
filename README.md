@@ -37,4 +37,4 @@ The main program can be built and run by doing the following from the project to
 
 ## Project Rubric
 
-## [Rubric](https://review.udacity.com/#!/rubrics/748/view) Points
+# [Rubric](https://review.udacity.com/#!/rubrics/748/view) Points
